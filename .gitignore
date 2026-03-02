@@ -9,3 +9,5 @@ target/
 *.mp4
 *.zip
 *.jar
+.angular/
+
