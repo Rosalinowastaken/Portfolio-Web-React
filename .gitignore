@@ -1,0 +1,11 @@
+﻿node_modules/
+target/
+.idea/
+.vscode/
+*.log
+*.exe
+*.dll
+*.db
+*.mp4
+*.zip
+*.jar

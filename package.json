@@ -1,0 +1,36 @@
+{
+  "dependencies": {
+    "classnames": "^2.5.1",
+    "husky": "^9.1.6",
+    "lint-staged": "^15.2.10",
+    "node": "^20.18.0",
+    "prettier": "^3.3.3",
+    "prop-types": "^15.8.1",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "name": "proyecto-react",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html",
+    "lint": "eslint --fix src/**/*.{js,jsx}",
+    "lint2": "eslint ."
+  },
+  "keywords": [
+    "Rosa"
+  ],
+  "author": "Rosa",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@eslint/js": "^9.12.0",
+    "eslint": "^9.12.0",
+    "eslint-plugin-react": "^7.37.1",
+    "parcel-bundler": "^1.12.5"
+  },
+  "prettier": {
+    "semi": true
+  }
+}
